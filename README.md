@@ -1,11 +1,13 @@
 # Software Tester
 
-# About Me:
+## About Me:
 
-# Skills:
+## Skills:
+[Eclipse](https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/eclipse-original.svg)
+## Projects:
 
-# Projects:
+1. Web UI Automation Framework using Selenium WebDriver and Java.
+2. 
+## Certifications:
 
-# Certifications:
-
-# Training:
+## Training:
