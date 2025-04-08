@@ -33,6 +33,15 @@ My objective is to secure a role in an organization where I can grow as an autom
 <br>
 
 ## ⭐ PROJECTS
+
+|**Project 01 :- Hybrid Test Automation Framework for Guru99 Bank Using Selenium & Java.**|
+|:---:|
+|<img src="assets/imgs/Projects/web-ui-automation-framework.png" width="550">|
+|<img src="assets/imgs/skills/selenium-original.svg" width="30" height="30"><img src="assets/imgs/skills/java-original.svg" width="30" height="30"><img src="assets/imgs/skills/testng-logo.png" width="30" height="30"><img src="assets/imgs/skills/eclipse-original.svg " width="30" height="30"><img src="assets/imgs/skills/git-original.svg" width="30" height="30"><img src="assets/imgs/skills/github-original.svg" width="30" height="30">|
+|This project demonstrates a hybrid test automation framework built with Selenium WebDriver, Java, and TestNG, following the Page Object Model. It integrates Log4j, ExtentReports and Maven into the project. The framework automates functionalities of the Guru99 Bank demo website, ensuring efficient and maintainable test execution.|
+|[View On Github](https://github.com/amulsinfal/Hybrid-Framework-for-Automation-of-www.demo.Guru99Bank.com-v4-website)|
+
+
 1. **Project Title:- Hybrid Test Automation Framework for Guru99 Bank Using Selenium & Java.** <br>
    <img src="assets/imgs/Projects/web-ui-automation-framework.png" width="550"><br>
    **Tools & Tech Used**:- <img src="assets/imgs/skills/selenium-original.svg" width="30" height="30"><img src="assets/imgs/skills/java-original.svg" width="30" height="30"><img src="assets/imgs/skills/testng-logo.png" width="30" height="30"><img src="assets/imgs/skills/java-original.svg" width="30" height="30"><img src="assets/imgs/skills/eclipse-original.svg " width="30" height="30"><img src="assets/imgs/skills/git-original.svg" width="30" height="30"><img src="assets/imgs/skills/github-original.svg" width="30" height="30"><br>
