@@ -68,6 +68,7 @@ My objective is to secure a role in an organization where I can grow as an autom
 
 
 ## 🏆 CERTIFICATION
+
 |**CERTIFICATE 01 - Agile Tester Foundation Extension Certificate**, *Issued by Indian Testing Board*|
 |:----:|
 |<img src="assets/imgs/Certifications/ITB-Agile-Tester-Foundation-Extension-Certificate-In-Software-Testing.png" width="550">|
@@ -79,6 +80,7 @@ My objective is to secure a role in an organization where I can grow as an autom
 |<img src="assets/imgs/Certifications/Salesforce-Certified-Associate.png" width="550">|
 
 ## 📄 TRAINING
+
 |**TRAINING 01 - Diploma in Software testing**, *Issued by Seed Infotech*|
 |:----:|
 |<img src="assets/imgs/Trainings/Seed-infotech-Manual-Testing-Certificate.png" width="550">|
