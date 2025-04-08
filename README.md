@@ -39,7 +39,6 @@ My objective is to secure a role in an organization where I can grow as an autom
 |This project demonstrates a hybrid test automation framework built with **Selenium WebDriver**, **Java**, and **TestNG**, following the **Page Object Model (POM)**. It integrates **Log4j** for logging, **ExtentReports** for reporting and **Maven** as build tool into the project. The framework automates functionalities of the Guru99 Bank demo website, ensuring efficient and maintainable test execution.|
 |[View On Github](https://github.com/amulsinfal/Hybrid-Framework-for-Automation-of-www.demo.Guru99Bank.com-v4-website)|
 
-<br>
 
 |**Project 02 :- TestNG - Based Test Automation Framework Using Selenium & Java.**|
 |:---:|
@@ -72,11 +71,11 @@ My objective is to secure a role in an organization where I can grow as an autom
 
 |**CERTIFICATE 01 - Agile Tester Foundation Extension Certificate**, <br> *Issued by Indian Testing Board*|
 |:----:|
-|<img src="assets/imgs/Certifications/ITB-Agile-Tester-Foundation-Extension-Certificate-In-Software-Testing.png" width="550">|
+|<img src="assets/imgs/Certifications/ITB-Agile-Tester-Foundation-Extension-Certificate-In-Software-Testing.png" width="550"><br><br>|
 |**CERTIFICATE 02 - Foundation Level Certificate in Software Testing**, <br> ***Issued by Indian Testing Board***|
-|<img src="assets/imgs/Certifications/ITB-Foundation-Level-Certificate-In-Software-Testing.png" width="550">|
+|<img src="assets/imgs/Certifications/ITB-Foundation-Level-Certificate-In-Software-Testing.png" width="550"><br><br>|
 |**CERTIFICATE 03 - Salesforce Certified Associate**, <br> ***Issued by Salesforce Inc***|
-|<img src="assets/imgs/Certifications/Salesforce-Certified-Associate.png" width="550">|
+|<img src="assets/imgs/Certifications/Salesforce-Certified-Associate.png" width="550"><br><br>|
 
 <br>
 
@@ -84,6 +83,6 @@ My objective is to secure a role in an organization where I can grow as an autom
 
 |**TRAINING 01 - Diploma in Software testing**, *Issued by Seed Infotech*|
 |:----:|
-|<img src="assets/imgs/Trainings/Seed-infotech-Manual-Testing-Certificate.png" width="550">|
+|<img src="assets/imgs/Trainings/Seed-infotech-Manual-Testing-Certificate.png" width="550"><br><br>|
 
 <br>
