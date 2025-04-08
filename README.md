@@ -51,43 +51,6 @@ My objective is to secure a role in an organization where I can grow as an autom
 
 <br>
 
-<!--
-1. **Project Name**:- **Hybrid Test Automation Framework for Guru99 Bank Using Selenium & Java.** [[View On Github]](https://github.com/amulsinfal/Hybrid-Framework-for-Automation-of-www.demo.Guru99Bank.com-v4-website) <br><br>
-   <img src="https://amulsinfal.github.io/assets/imgs/Projects/web-ui-automation-framework.png" width="550"><br><br>
-   **Project Description:**<br>This project demonstrates a hybrid test automation framework built with Selenium WebDriver, Java, and TestNG, following the Page Object Model. It integrates Log4j, ExtentReports and Maven into the project. The framework automates functionalities of the Guru99 Bank demo website, ensuring efficient and maintainable test execution.<br><br>
-   **Tools & Tech Used:**<br>
-   <img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/selenium-original.svg" width="30" height="30"> <img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/java-original.svg" width="30" height="30"> 
- <img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/testng-logo.png" width="30" height="30"> <img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/eclipse-original.svg " width="30" height="30">  <img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/git-original.svg" width="30" height="30"> <img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/github-original.svg" width="30" height="30"><br><br>
-   **Project Details**: [View On Github](https://github.com/amulsinfal/Hybrid-Framework-for-Automation-of-www.demo.Guru99Bank.com-v4-website)<br><br>
-
-
-2. **Project Name**:- **TestNG - Based Test Automation Framework Using Selenium & Java.** [[View On Github]](https://github.com/amulsinfal/TestNG-testing-framework-using-selenium-api) <br><br>
-   <img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/Projects/testng-framework-project.png" width="550"><br><br>
-   **Project Description:**<br>This project demonstrates the implementation of TestNG features such as annotations, parameterization, and test grouping in Selenium WebDriver. It showcases how to structure and execute automated test cases efficiently, leveraging TestNG's capabilities for improved test organization and reporting.<br><br>
-   **Tools & Tech Used:**<br>
-   <img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/testng-logo.png" width="30" height="30"> <img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/java-original.svg" width="30" height="30"> 
-  <img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/eclipse-original.svg " width="30" height="30">  <img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/git-original.svg" width="30" height="30"> <img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/github-original.svg" width="30" height="30"><br><br>
-   **Project Details**: [View On Github](https://github.com/amulsinfal/TestNG-testing-framework-using-selenium-api)<br><br>
-
-
-3. **Project Name**:- **Postman API Testing with Newman for Reqres.in** [[View On Github]](https://github.com/amulsinfal/postman_api_testing_collections) <br><br>
-   <img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/Projects/api-testing-postman.png" width="550"><br><br>
-   **Project Description:**<br>This project demonstrates the implementation of TestNG features such as annotations, parameterization, and test grouping in Selenium WebDriver. It showcases how to structure and execute automated test cases efficiently, leveraging TestNG's capabilities for improved test organization and reporting.<br><br>
-   **Tools & Tech Used:**<br>
-   <img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/postman-original.svg" width="30" height="30"> <img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/git-original.svg" width="30" height="30"> <img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/github-original.svg" width="30" height="30"><br><br>
-   **Project Details**: [View On Github](https://github.com/amulsinfal/postman_api_testing_collections)<br><br>
-
-
-4. **Project Name**:- **Automated Test Cases for AutomationExercise.com Using Selenium & Java.** [[View On Github]](https://github.com/amulsinfal/Automated-test-cases-using-selenium-java-www.automationexercise.com) <br><br>
-   <img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/Projects/automate-manual-testcases-automationexercise.com.png" width="550"><br><br>
-   **Project Description:**<br>In this project I have created automation script for the manual test cases provided on AutomationExercise.com using Selenium WebDriver, Java and TestNG. The automated scripts cover various functionalities, including user authentication, product searches, cart management and order placement.<br><br>
-   **Tools & Tech Used:**<br>
-   <img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/selenium-original.svg" width="30" height="30"> <img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/java-original.svg" width="30" height="30"> 
- <img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/testng-logo.png" width="30" height="30"> <img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/eclipse-original.svg " width="30" height="30">  <img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/git-original.svg" width="30" height="30"> <img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/github-original.svg" width="30" height="30"><br><br>
-   **Project Details**: [View On Github](https://github.com/amulsinfal/Automated-test-cases-using-selenium-java-www.automationexercise.com)<br><br>
--->
-
-
 ## <div align="center"> :trophy: CERTIFICATION </div>
 <br>
 
@@ -107,6 +70,4 @@ My objective is to secure a role in an organization where I can grow as an autom
 |:---:|
 |<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/Trainings/Seed-infotech-Manual-Testing-Certificate.png" width="550">|
 
-
-1. **Diploma in Software testing**, Issued by Seed Infotech
-<br> 
+<br>
