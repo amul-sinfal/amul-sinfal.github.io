@@ -39,8 +39,8 @@ My objective is to secure a role in an organization where I can grow as an autom
 |[View On Github](https://github.com/amulsinfal/Hybrid-Framework-for-Automation-of-www.demo.Guru99Bank.com-v4-website)|[View On Github](https://github.com/amulsinfal/Hybrid-Framework-for-Automation-of-www.demo.Guru99Bank.com-v4-website) |
 |      |      |
 |**Project 03 - API Testing using Postman tool with Newman for Reqres.in**|**Project 04 - Automated Test Cases for AutomationExercise.com Using Selenium & Java.**|
-|<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/Projects/api-testing-postman.png" width="550">|<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/Projects/automate-manual-testcases-automationexercise.com.png" width="550">|
-|<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/postman-original.svg" width="30" height="30"><img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/git-original.svg" width="30" height="30"><img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/github-original.svg" width="30" height="30">|<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/selenium-original.svg" width="30" height="30"><img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/java-original.svg" width="30" height="30"><img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/testng-logo.png" width="30" height="30"><img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/eclipse-original.svg " width="30" height="30"><img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/git-original.svg" width="30" height="30"><img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/github-original.svg" width="30" height="30">| 
+|<img src="assets/imgs/Projects/api-testing-postman.png" width="550">|<img src="assets/imgs/Projects/automate-manual-testcases-automationexercise.com.png" width="550">|
+|<img src="assets/imgs/skills/postman-original.svg" width="30" height="30"><img src="assets/imgs/skills/git-original.svg" width="30" height="30"><img src="assets/imgs/skills/github-original.svg" width="30" height="30">|<img src="assets/imgs/skills/selenium-original.svg" width="30" height="30"><img src="assets/imgs/skills/java-original.svg" width="30" height="30"><img src="assets/imgs/skills/testng-logo.png" width="30" height="30"><img src="assets/imgs/skills/eclipse-original.svg " width="30" height="30"><img src="assets/imgs/skills/git-original.svg" width="30" height="30"><img src="assets/imgs/skills/github-original.svg" width="30" height="30">| 
 |This project demonstrates the implementation of TestNG features such as annotations, parameterization, and test grouping in Selenium WebDriver. It showcases how to structure and execute automated test cases efficiently, leveraging TestNG's capabilities for improved test organization and reporting.<br>|In this project I have created automation script for the manual test cases provided on AutomationExercise.com using Selenium WebDriver, Java and TestNG. The automated scripts cover various functionalities, including user authentication, product searches, cart management and order placement.<br>|
 |[View On Github](https://github.com/amulsinfal/postman_api_testing_collections)|[View On Github](https://github.com/amulsinfal/Automated-test-cases-using-selenium-java-www.automationexercise.com)|
 
@@ -50,10 +50,10 @@ My objective is to secure a role in an organization where I can grow as an autom
 
 | **Agile Tester Foundation Extension Certificate** <br> *Issued by Indian Testing Board* | **Foundation Level Certificate in Software Testing** <br> *Issued by Indian Testing Board* |
 |:---:|:---:|
-|<img src="https://amulsinfal.github.io/assets/imgs/Certifications/ITB-Agile-Tester-Foundation-Extension-Certificate-In-Software-Testing.png" width="550">|<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/Certifications/ITB-Foundation-Level-Certificate-In-Software-Testing.png" width="550">|
+|<img src="assets/imgs/Certifications/ITB-Agile-Tester-Foundation-Extension-Certificate-In-Software-Testing.png" width="550">|<img src="assets/imgs/Certifications/ITB-Foundation-Level-Certificate-In-Software-Testing.png" width="550">|
 |      |      |
 | **Salesforce Certified Associate** **<br> *Issued by Salesforce Inc.***|
-|<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/Certifications/Salesforce-Certified-Associate.png" width="550">|
+|<img src="assets/imgs/Certifications/Salesforce-Certified-Associate.png" width="550">|
 
 <br>
 
@@ -61,6 +61,6 @@ My objective is to secure a role in an organization where I can grow as an autom
 
 | **Diploma in Software testing**, Issued by Seed Infotech|
 |:---:|
-|<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/Trainings/Seed-infotech-Manual-Testing-Certificate.png" width="550">|
+|<img src="assets/imgs/Trainings/Seed-infotech-Manual-Testing-Certificate.png" width="550">| 
 
 <br>
