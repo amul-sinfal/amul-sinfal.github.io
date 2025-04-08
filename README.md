@@ -7,17 +7,9 @@ As an aspiring automation tester, I have created projects to demonstrate my skil
 I hold industry-recognized certifications, including the **Agile Tester Foundation Extension Certificate in Software Testing** and the **Foundation Level Certificate in Software Testing**. These certifications validate my expertise in software testing principles, Agile methodologies, and structured testing approaches.
 
 My objective is to secure a role in an organization where I can grow as an automation tester while also contributing my expertise in manual testing. I aim to contribute to a team that prioritizes software quality, and values continuous learning to deliver robust and reliable software solutions.
-<br>
 
+<img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/ISTQB-Certified-AT-badge.png" width="120"><img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/ISTQB-Certified-FL-badge.png" width="120"><img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/Salesforce-Certified-Associate-badge.png" width="120">
 
-<br>
-
-| <br><img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/ISTQB-Certified-AT-badge.png" width="120"><br> | <br><img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/ISTQB-Certified-FL-badge.png" width="120"><br> | <br><img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/Salesforce-Certified-Associate-badge.png" width="120"><br> |
-|     :---:              |     :---:              |     :---:              |
-
-<br>
-
-<br>
 
 | <br><img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/ISTQB-Certified-AT-badge.png" width="120" height="120"><br> | <br><img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/ISTQB-Certified-FL-badge.png" width="120" height="120"><br> | <br><img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/Salesforce-Certified-Associate-badge.png" width="120" height="120"><br> |
 | :----: | :----: | :----: |
