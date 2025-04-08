@@ -2,7 +2,7 @@ title: Amul Sinfal
 logo: /assests/img/headshot_circle.png
 description: text below image
 show_downloads: false
-theme: minima
+theme: jekyll-theme-minimal
 
 # title: Amul Sinfal's Portfolio.
 # author: Amul Sinfal
