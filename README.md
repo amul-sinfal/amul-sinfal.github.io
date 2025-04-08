@@ -26,11 +26,10 @@ My objective is to secure a role in an organization where I can grow as an autom
 |:---:|:---:|:---:|:---:|:---:|
 |Jira |Agile|Postman|Selenium|Java|
 
-<br>
-
 |<img src="assets/imgs/skills/testng-logo.png" width="50" height="50">|<img src="assets/imgs/skills/eclipse-original.svg" width="50" height="50">|<img src="assets/imgs/skills/git-original.svg" width="50" height="50">|<img src="assets/imgs/skills/github-original.svg" width="50" height="50">|
 |:---:|:---:|:---:|:---:|
 |TestNG|Eclipse|Git|Github|
+
 <br>
 
 ## ⭐ PROJECTS
