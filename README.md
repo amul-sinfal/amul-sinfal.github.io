@@ -22,10 +22,13 @@ My objective is to secure a role in an organization where I can grow as an autom
 
 ## ⚙️ SKILLSET
   
-|<img src="assets/imgs/skills/jira-original.svg" width="50" height="50">|<img src="assets/imgs/skills/scrum-agile-software-development.png" width="50" height="50">|<img src="assets/imgs/skills/postman-original.svg" width="50" height="50">|<img src="assets/imgs/skills/selenium-original.svg" width="50" height="50">|<img src="assets/imgs/skills/java-original.svg" width="50" height="50">|<img src="assets/imgs/skills/testng-logo.png" width="50" height="50">|<img src="assets/imgs/skills/eclipse-original.svg" width="50" height="50">|<img src="assets/imgs/skills/git-original.svg" width="50" height="50">|<img src="assets/imgs/skills/github-original.svg" width="50" height="50">|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Jira |Agile|Postman|Selenium|Java|TestNG|Eclipse|Git|Github|
+|<img src="assets/imgs/skills/jira-original.svg" width="50" height="50">|<img src="assets/imgs/skills/scrum-agile-software-development.png" width="50" height="50">|<img src="assets/imgs/skills/postman-original.svg" width="50" height="50">|<img src="assets/imgs/skills/selenium-original.svg" width="50" height="50">|<img src="assets/imgs/skills/java-original.svg" width="50" height="50">|
+|:---:|:---:|:---:|:---:|:---:|
+|Jira |Agile|Postman|Selenium|Java|
 
+|<img src="assets/imgs/skills/testng-logo.png" width="50" height="50">|<img src="assets/imgs/skills/eclipse-original.svg" width="50" height="50">|<img src="assets/imgs/skills/git-original.svg" width="50" height="50">|<img src="assets/imgs/skills/github-original.svg" width="50" height="50">|
+|:---:|:---:|:---:|:---:|
+|TestNG|Eclipse|Git|Github|
 <br>
 
 ## ⭐ PROJECTS
