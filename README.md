@@ -45,7 +45,7 @@ My objective is to secure a role in an organization where I can grow as an autom
 |<img src="assets/imgs/Projects/testng-framework-project.png" width="550">|
 |<img src="assets/imgs/skills/testng-logo.png" width="30" height="30"><img src="assets/imgs/skills/java-original.svg" width="30" height="30"><img src="assets/imgs/skills/eclipse-original.svg " width="30" height="30"><img src="assets/imgs/skills/git-original.svg" width="30" height="30"> <img src="assets/imgs/skills/github-original.svg" width="30" height="30">|
 |This project demonstrates the implementation of **TestNG features** such as **annotations**, **parameterization**, and test **grouping** in Selenium WebDriver. It showcases how to structure and execute automated test cases efficiently, leveraging TestNG's capabilities for improved test organization and reporting.|
-|[View On Github](https://github.com/amulsinfal/Hybrid-Framework-for-Automation-of-www.demo.Guru99Bank.com-v4-website)|
+|[View On Github](https://github.com/amulsinfal/TestNG-testing-framework-using-selenium-api)|
 
 
 |**Project 03 :- API Testing using Postman tool with Newman for Reqres.in.**|
