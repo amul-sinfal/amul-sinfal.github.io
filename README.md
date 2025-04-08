@@ -45,7 +45,7 @@ My objective is to secure a role in an organization where I can grow as an autom
 |:---:|
 |<img src="assets/imgs/Projects/testng-framework-project.png" width="550">|
 |<img src="assets/imgs/skills/testng-logo.png" width="30" height="30"><img src="assets/imgs/skills/java-original.svg" width="30" height="30"><img src="assets/imgs/skills/eclipse-original.svg " width="30" height="30"><img src="assets/imgs/skills/git-original.svg" width="30" height="30"> <img src="assets/imgs/skills/github-original.svg" width="30" height="30">|
-|This project demonstrates the implementation of TestNG features such as annotations, parameterization, and test grouping in Selenium WebDriver. It showcases how to structure and execute automated test cases efficiently, leveraging TestNG's capabilities for improved test organization and reporting.|
+|This project demonstrates the implementation of **TestNG features** such as **annotations**, **parameterization**, and test **grouping** in Selenium WebDriver. It showcases how to structure and execute automated test cases efficiently, leveraging TestNG's capabilities for improved test organization and reporting.|
 |[View On Github](https://github.com/amulsinfal/Hybrid-Framework-for-Automation-of-www.demo.Guru99Bank.com-v4-website)|
 
 <br>
@@ -54,7 +54,7 @@ My objective is to secure a role in an organization where I can grow as an autom
 |:---:|
 |<img src="assets/imgs/Projects/api-testing-postman.png" width="550">|
 |<img src="assets/imgs/skills/postman-original.svg" width="30" height="30"><img src="assets/imgs/skills/git-original.svg" width="30" height="30"><img src="assets/imgs/skills/github-original.svg" width="30" height="30">|
-|This project showcases API testing using Postman for manual test case creation and execution, and Newman, a command-line collection runner for Postman, to automate test runs and generate detailed HTML reports. The tests cover various HTTP request-response scenarios, demonstrating validation of API functionalities.|
+|This project showcases **API testing** using **Postman** for manual test case creation and execution, and **Newman**, a command-line collection runner for Postman, to automate test runs and generate detailed HTML reports. The tests cover various HTTP request-response scenarios, demonstrating validation of API functionalities.|
 |[View On Github](https://github.com/amulsinfal/postman_api_testing_collections)|
 
 <br>
@@ -63,25 +63,22 @@ My objective is to secure a role in an organization where I can grow as an autom
 |:---:|
 |<img src="assets/imgs/Projects/automate-manual-testcases-automationexercise.com.png" width="550">|
 |<img src="assets/imgs/skills/selenium-original.svg" width="30" height="30"><img src="assets/imgs/skills/java-original.svg" width="30" height="30"><img src="assets/imgs/skills/testng-logo.png" width="30" height="30"><img src="assets/imgs/skills/eclipse-original.svg " width="30" height="30"><img src="assets/imgs/skills/git-original.svg" width="30" height="30"><img src="assets/imgs/skills/github-original.svg" width="30" height="30">|
-|In this project I have created automation script for the manual test cases provided on AutomationExercise.com using Selenium WebDriver, Java and TestNG. The automated scripts cover various functionalities, including user authentication, product searches, cart management and order placement.|
+|In this project I have created **automation script** for the **manual test cases** provided on AutomationExercise.com using **Selenium WebDriver**, **Java** and **TestNG**. The automated scripts cover various functionalities, including user authentication, product searches, cart management and order placement.|
 |[View On Github](https://github.com/amulsinfal/Automated-test-cases-using-selenium-java-www.automationexercise.com)|
 
 
-4. **Project Title:- Automated Test Cases for AutomationExercise.com Using Selenium & Java.** <br>
-   <img src="assets/imgs/Projects/automate-manual-testcases-automationexercise.com.png" width="550"><br>
-   **Tools & Tech Used**:- <img src="assets/imgs/skills/selenium-original.svg" width="30" height="30"><img src="assets/imgs/skills/java-original.svg" width="30" height="30"><img src="assets/imgs/skills/testng-logo.png" width="30" height="30"><img src="assets/imgs/skills/eclipse-original.svg " width="30" height="30"><img src="assets/imgs/skills/git-original.svg" width="30" height="30"><img src="assets/imgs/skills/github-original.svg" width="30" height="30"><br>
-   **Description**:- In this project I have created automation script for the manual test cases provided on AutomationExercise.com using Selenium WebDriver, Java and TestNG. The automated scripts cover various functionalities, including user authentication, product searches, cart management and order placement.<br> 
-   **Project Repository**:- [View On Github](https://github.com/amulsinfal/Automated-test-cases-using-selenium-java-www.automationexercise.com)|
-<br>
-
 ## 🏆 CERTIFICATION
-1. **Agile Tester Foundation Extension Certificate**, *Issued by Indian Testing Board* <br>
-   <img src="assets/imgs/Certifications/ITB-Agile-Tester-Foundation-Extension-Certificate-In-Software-Testing.png" width="550"><br><br>
-2. **Foundation Level Certificate in Software Testing**, *Issued by Indian Testing Board* <br>
-   <img src="assets/imgs/Certifications/ITB-Foundation-Level-Certificate-In-Software-Testing.png" width="550"><br>
-3, **Salesforce Certified Associate**, *Issued by Salesforce Inc.* <br>
-   <img src="assets/imgs/Certifications/Salesforce-Certified-Associate.png" width="550"><br><br>
+|**CERTIFICATE 01 - Agile Tester Foundation Extension Certificate**, *Issued by Indian Testing Board*|
+|:----:|
+|<img src="assets/imgs/Certifications/ITB-Agile-Tester-Foundation-Extension-Certificate-In-Software-Testing.png" width="550">|
+| |
+|**CERTIFICATE 02 - Foundation Level Certificate in Software Testing**, ***Issued by Indian Testing Board***|
+|<img src="assets/imgs/Certifications/ITB-Foundation-Level-Certificate-In-Software-Testing.png" width="550">|
+| |
+|**CERTIFICATE 03 - Salesforce Certified Associate**, ***Issued by Salesforce Inc***|
+|<img src="assets/imgs/Certifications/Salesforce-Certified-Associate.png" width="550">|
 
 ## 📄 TRAINING
-1. **Diploma in Software testing**, Issued by Seed Infotech<br>
-<img src="assets/imgs/Trainings/Seed-infotech-Manual-Testing-Certificate.png" width="550"><br><br> 
+|**TRAINING 01 - Diploma in Software testing**, *Issued by Seed Infotech*|
+|:----:|
+|<img src="assets/imgs/Trainings/Seed-infotech-Manual-Testing-Certificate.png" width="550">|
