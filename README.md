@@ -1,12 +1,12 @@
 <!-- ## 👋 About Me -->
 
-I have strong expertise in **manual testing** and over 1 year of experience in **automation testing** with Selenium WebDriver, and API testing using Postman. My experience includes working with **Agile methodologies**, collaborating with cross-functional teams to ensure software quality by identifying defects, validating functionality, and contributing to test planning for seamless software delivery.
+I am a skilled software tester with strong expertise in manual testing and over one year of hands-on experience in automation testing using Selenium WebDriver and API testing with Postman. I have worked extensively in Agile environments, collaborating with cross-functional teams to ensure high-quality software delivery by identifying defects, validating functionality, and actively contributing to test planning and execution.
 
-As an aspiring automation tester, I have created projects to demonstrate my skills in **Core Java**, **Selenium WebDriver**, **TestNG**, and **Postman**, which I have uploaded on **GitHub** . I am continuously enhancing my skills by working on automation projects, exploring advanced test frameworks, and staying updated with modern testing tools. I am passionate about improving test efficiency through automation and actively expanding my knowledge to keep up with evolving industry trends.
+As an aspiring automation tester, I have developed and showcased projects utilizing Core Java, Selenium WebDriver, TestNG, and Postman, which are available on my GitHub profile. I am committed to continuous learning and regularly work on automation projects, explore advanced test frameworks, and stay current with the latest testing tools and industry trends.
 
-I hold industry-recognized certifications, including the **Agile Tester Foundation Extension Certificate in Software Testing** and the **Foundation Level Certificate in Software Testing**. These certifications validate my expertise in software testing principles, Agile methodologies, and structured testing approaches.
+I hold industry-recognized certifications, including the ISTQB Agile Tester Foundation Extension Certificate and the ISTQB Foundation Level Certificate in Software Testing, which validate my solid foundation in software testing principles, Agile methodologies, and structured testing approaches.
 
-My objective is to secure a role in an organization where I can grow as an automation tester while also contributing my expertise in manual testing. I aim to contribute to a team that prioritizes software quality, and values continuous learning to deliver robust and reliable software solutions.
+My goal is to secure a role in a forward-thinking organization where I can continue to grow as an automation tester while contributing my strengths in manual testing. I am passionate about improving test efficiency through automation and strive to be part of a team that values quality, collaboration, and continuous improvement.
 
 <img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/ISTQB-Certified-AT-badge.png" width="120"><img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/ISTQB-Certified-FL-badge.png" width="120"><img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/Salesforce-Certified-Associate-badge.png" width="120">
 
