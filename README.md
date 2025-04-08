@@ -21,10 +21,12 @@ My objective is to secure a role in an organization where I can grow as an autom
 <br>
 
 ## :gear: SKILLSET
+
 <br>
   
 |<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/jira-original.svg" width="50" height="50">|<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/scrum-agile-software-development.png" width="50" height="50">|<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/postman-original.svg" width="50" height="50">|<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/selenium-original.svg" width="50" height="50">|<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/java-original.svg" width="50" height="50">|<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/testng-logo.png" width="50" height="50">|<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/eclipse-original.svg" width="50" height="50">|<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/git-original.svg" width="50" height="50">|<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/github-original.svg" width="50" height="50">|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Jira |Agile|Postman|Selenium|Java|TestNG|Eclipse|Git|Github|
 
 
 ## <div align="center"> :star: PROJECTS </div>
