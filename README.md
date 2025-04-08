@@ -81,6 +81,6 @@ My objective is to secure a role in an organization where I can grow as an autom
 
 |**TRAINING 01 - Diploma in Software testing**, *Issued by Seed Infotech*|
 |:----:|
-|<img src="https://amul-sinfal.github.io/assets/imgs/Trainings/Seed-infotech-Manual-Testing-Certificate.png" width="550"><br><br>|
+|<img src="/assets/imgs/Trainings/Seed-infotech-Manual-Testing-Certificate.png" width="550"><br><br>|
 
 <br>
