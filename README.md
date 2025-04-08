@@ -47,7 +47,6 @@ My objective is to secure a role in an organization where I can grow as an autom
 |This project demonstrates the implementation of **TestNG features** such as **annotations**, **parameterization**, and test **grouping** in Selenium WebDriver. It showcases how to structure and execute automated test cases efficiently, leveraging TestNG's capabilities for improved test organization and reporting.|
 |[View On Github](https://github.com/amulsinfal/Hybrid-Framework-for-Automation-of-www.demo.Guru99Bank.com-v4-website)|
 
-<br>
 
 |**Project 03 :- API Testing using Postman tool with Newman for Reqres.in.**|
 |:---:|
@@ -56,7 +55,6 @@ My objective is to secure a role in an organization where I can grow as an autom
 |This project showcases **API testing** using **Postman** for manual test case creation and execution, and **Newman**, a command-line collection runner for Postman, to automate test runs and generate detailed HTML reports. The tests cover various HTTP request-response scenarios, demonstrating validation of API functionalities.|
 |[View On Github](https://github.com/amulsinfal/postman_api_testing_collections)|
 
-<br>
 
 |**Project 04 :- Automated Test Cases for AutomationExercise.com Using Selenium & Java.**|
 |:---:|
