@@ -20,7 +20,7 @@ My objective is to secure a role in an organization where I can grow as an autom
 
 <br>
 
-## :gear: SKILLSET
+## ⚙️ SKILLSET
 
 <br>
   
