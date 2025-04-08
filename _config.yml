@@ -1,4 +1,4 @@
-title: Amul Sinfal's Portfolio.
+title: AMUL SINFAL's PORTFOLIO.
 
 #-------------------------------------
 
@@ -9,7 +9,7 @@ title: Amul Sinfal's Portfolio.
 
 #-------------------------------------
 
-author: Amul Sinfal
+author: Amul Sinfal &copy 2025
 
 # description: >
 #   Write an awesome description for your new site here. You can edit this line
@@ -30,4 +30,4 @@ minima:
    skin: auto
   
    # Set to `true` to show excerpts on the homepage.
-   show_excerpts: true
+   # show_excerpts: true
