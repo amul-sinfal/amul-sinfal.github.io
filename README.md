@@ -70,14 +70,12 @@ My objective is to secure a role in an organization where I can grow as an autom
 
 ## 🏆 CERTIFICATION
 
-|**CERTIFICATE 01 - Agile Tester Foundation Extension Certificate**, *Issued by Indian Testing Board*|
+|**CERTIFICATE 01 - Agile Tester Foundation Extension Certificate**, <br> *Issued by Indian Testing Board*|
 |:----:|
 |<img src="assets/imgs/Certifications/ITB-Agile-Tester-Foundation-Extension-Certificate-In-Software-Testing.png" width="550">|
-| |
-|**CERTIFICATE 02 - Foundation Level Certificate in Software Testing**, ***Issued by Indian Testing Board***|
+|**CERTIFICATE 02 - Foundation Level Certificate in Software Testing**, <br> ***Issued by Indian Testing Board***|
 |<img src="assets/imgs/Certifications/ITB-Foundation-Level-Certificate-In-Software-Testing.png" width="550">|
-| |
-|**CERTIFICATE 03 - Salesforce Certified Associate**, ***Issued by Salesforce Inc***|
+|**CERTIFICATE 03 - Salesforce Certified Associate**, <br> ***Issued by Salesforce Inc***|
 |<img src="assets/imgs/Certifications/Salesforce-Certified-Associate.png" width="550">|
 
 <br>
