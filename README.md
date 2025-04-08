@@ -57,12 +57,15 @@ My objective is to secure a role in an organization where I can grow as an autom
 |This project showcases API testing using Postman for manual test case creation and execution, and Newman, a command-line collection runner for Postman, to automate test runs and generate detailed HTML reports. The tests cover various HTTP request-response scenarios, demonstrating validation of API functionalities.|
 |[View On Github](https://github.com/amulsinfal/postman_api_testing_collections)|
 
-3. **Project Title:- API Testing using Postman tool with Newman for Reqres.in.** <br>
-<img src="assets/imgs/Projects/api-testing-postman.png" width="550"><br>
-**Tools & Tech Used**:- <img src="assets/imgs/skills/postman-original.svg" width="30" height="30"><img src="assets/imgs/skills/git-original.svg" width="30" height="30"><img src="assets/imgs/skills/github-original.svg" width="30" height="30"><br>
-**Description**:- This project showcases API testing using Postman for manual test case creation and execution, and Newman, a command-line collection runner for Postman, to automate test runs and generate detailed HTML reports. The tests cover various HTTP request-response scenarios, demonstrating validation of API functionalities.<br>
-**Project Repository**:- [View On Github](https://github.com/amulsinfal/postman_api_testing_collections)
 <br>
+
+|**Project 04 :- Automated Test Cases for AutomationExercise.com Using Selenium & Java.**|
+|:---:|
+|<img src="assets/imgs/Projects/automate-manual-testcases-automationexercise.com.png" width="550">|
+|<img src="assets/imgs/skills/selenium-original.svg" width="30" height="30"><img src="assets/imgs/skills/java-original.svg" width="30" height="30"><img src="assets/imgs/skills/testng-logo.png" width="30" height="30"><img src="assets/imgs/skills/eclipse-original.svg " width="30" height="30"><img src="assets/imgs/skills/git-original.svg" width="30" height="30"><img src="assets/imgs/skills/github-original.svg" width="30" height="30">|
+|In this project I have created automation script for the manual test cases provided on AutomationExercise.com using Selenium WebDriver, Java and TestNG. The automated scripts cover various functionalities, including user authentication, product searches, cart management and order placement.|
+|[View On Github](https://github.com/amulsinfal/Automated-test-cases-using-selenium-java-www.automationexercise.com)|
+
 
 4. **Project Title:- Automated Test Cases for AutomationExercise.com Using Selenium & Java.** <br>
    <img src="assets/imgs/Projects/automate-manual-testcases-automationexercise.com.png" width="550"><br>
