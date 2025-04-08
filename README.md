@@ -1,4 +1,4 @@
-## <div align="center"> :wave: About me </div>
+## 👋 About me
 
 I have strong expertise in **manual testing** and over 1 year of experience in **automation testing** with Selenium WebDriver, and API testing using Postman. My experience includes working with **Agile methodologies**, collaborating with cross-functional teams to ensure software quality by identifying defects, validating functionality, and contributing to test planning for seamless software delivery.
 
@@ -10,11 +10,13 @@ My objective is to secure a role in an organization where I can grow as an autom
 
 <div align="center">
   
-| <img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/ISTQB-Certified-AT-badge.png" width="120" height="120">                     | <img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/ISTQB-Certified-FL-badge.png" width="120" height="120">                       | <img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/Salesforce-Certified-Associate-badge.png" width="120" height="120">                        | 
+| <img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/ISTQB-Certified-AT-badge.png" width="120" height="120"> | <img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/ISTQB-Certified-FL-badge.png" width="120" height="120"> | <img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/Salesforce-Certified-Associate-badge.png" width="120" height="120"> | 
 |     :---:              |     :---:              |     :---:              |
+
+
 </div><br>
 
-## <div align="center"> :bulb: WHAT I KNOW ? </div>
+## 💡 WHAT I KNOW ?
 <br>
 
 | <br><img src="https://amulsinfal.github.io/assets/imgs/service/manual-testing.png" width="100"><br> | <br><img src="https://amulsinfal.github.io/assets/imgs/service/automation-testing.png" width="100"><br> | <br><img src="https://amulsinfal.github.io/assets/imgs/service/api-testing.png" width="100"><br> | <br><img src="https://amulsinfal.github.io/assets/imgs/service/test-documentation.png" width="100"><br> |
