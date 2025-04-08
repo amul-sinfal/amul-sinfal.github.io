@@ -1,4 +1,3 @@
-## 👋 About me
 
 I have strong expertise in **manual testing** and over 1 year of experience in **automation testing** with Selenium WebDriver, and API testing using Postman. My experience includes working with **Agile methodologies**, collaborating with cross-functional teams to ensure software quality by identifying defects, validating functionality, and contributing to test planning for seamless software delivery.
 
