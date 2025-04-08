@@ -66,6 +66,7 @@ My objective is to secure a role in an organization where I can grow as an autom
 |In this project I have created **automation script** for the **manual test cases** provided on AutomationExercise.com using **Selenium WebDriver**, **Java** and **TestNG**. The automated scripts cover various functionalities, including user authentication, product searches, cart management and order placement.|
 |[View On Github](https://github.com/amulsinfal/Automated-test-cases-using-selenium-java-www.automationexercise.com)|
 
+<br>
 
 ## 🏆 CERTIFICATION
 
@@ -79,8 +80,12 @@ My objective is to secure a role in an organization where I can grow as an autom
 |**CERTIFICATE 03 - Salesforce Certified Associate**, ***Issued by Salesforce Inc***|
 |<img src="assets/imgs/Certifications/Salesforce-Certified-Associate.png" width="550">|
 
+<br>
+
 ## 📄 TRAINING
 
 |**TRAINING 01 - Diploma in Software testing**, *Issued by Seed Infotech*|
 |:----:|
 |<img src="assets/imgs/Trainings/Seed-infotech-Manual-Testing-Certificate.png" width="550">|
+
+<br>
