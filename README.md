@@ -10,6 +10,8 @@ My objective is to secure a role in an organization where I can grow as an autom
 
 <img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/ISTQB-Certified-AT-badge.png" width="120"><img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/ISTQB-Certified-FL-badge.png" width="120"><img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/Salesforce-Certified-Associate-badge.png" width="120">
 
+<br>
+
 ## 💡 WHAT I KNOW ?
 
 | <br><img src="https://amulsinfal.github.io/assets/imgs/service/manual-testing.png" width="100"><br> | <br><img src="https://amulsinfal.github.io/assets/imgs/service/automation-testing.png" width="100"><br> | <br><img src="https://amulsinfal.github.io/assets/imgs/service/api-testing.png" width="100"><br> | <br><img src="https://amulsinfal.github.io/assets/imgs/service/test-documentation.png" width="100"><br> |
@@ -17,11 +19,15 @@ My objective is to secure a role in an organization where I can grow as an autom
 | **Manual Testing** |  **Automation Testing** | **API Testing** | **Test Documentation** |
 |I ensure software quality by thoroughly testing applications through structured test cases, exploratory testing, and UI validation. I identify bugs, validate requirements, and enhance user experience through rigorous testing methodologies. | With experience in Java, Selenium WebDriver, and TestNG, I write and execute automated test scripts to improve test coverage and efficiency. I focus on automating web application testing to reduce manual efforts and enhance test reliability. | I validate RESTful APIs using Postman by testing request-response flows, authentication mechanisms, and error handling. I ensure smooth backend communication by performing functional and integration testing of APIs. | I create detailed test cases, test reports, and defect logs to maintain structured and efficient testing processes. My documentation ensures clear communication among stakeholders and supports continuous improvement in software quality. |
 
+<br>
+
 ## ⚙️ SKILLSET
   
 |<img src="assets/imgs/skills/jira-original.svg" width="50" height="50">|<img src="assets/imgs/skills/scrum-agile-software-development.png" width="50" height="50">|<img src="assets/imgs/skills/postman-original.svg" width="50" height="50">|<img src="assets/imgs/skills/selenium-original.svg" width="50" height="50">|<img src="assets/imgs/skills/java-original.svg" width="50" height="50">|<img src="assets/imgs/skills/testng-logo.png" width="50" height="50">|<img src="assets/imgs/skills/eclipse-original.svg" width="50" height="50">|<img src="assets/imgs/skills/git-original.svg" width="50" height="50">|<img src="assets/imgs/skills/github-original.svg" width="50" height="50">|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Jira |Agile|Postman|Selenium|Java|TestNG|Eclipse|Git|Github|
+
+<br>
 
 ## ⭐ PROJECTS
 
@@ -40,8 +46,7 @@ My objective is to secure a role in an organization where I can grow as an autom
 
 <br>
 
-## <div align="center"> :trophy: CERTIFICATION </div>
-<br>
+## 🏆 CERTIFICATION
 
 | **Agile Tester Foundation Extension Certificate** <br> *Issued by Indian Testing Board* | **Foundation Level Certificate in Software Testing** <br> *Issued by Indian Testing Board* |
 |:---:|:---:|
@@ -52,8 +57,7 @@ My objective is to secure a role in an organization where I can grow as an autom
 
 <br>
 
-## <div align="center"> :page_facing_up: TRAINING </div>
-<br>
+## 📄 TRAINING
 
 | **Diploma in Software testing**, Issued by Seed Infotech|
 |:---:|
