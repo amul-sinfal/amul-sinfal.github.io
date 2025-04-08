@@ -10,12 +10,6 @@ My objective is to secure a role in an organization where I can grow as an autom
 
 <img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/ISTQB-Certified-AT-badge.png" width="120"><img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/ISTQB-Certified-FL-badge.png" width="120"><img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/Salesforce-Certified-Associate-badge.png" width="120">
 
-
-| <br><img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/ISTQB-Certified-AT-badge.png" width="120" height="120"><br> | <br><img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/ISTQB-Certified-FL-badge.png" width="120" height="120"><br> | <br><img src="https://amulsinfal.github.io/assets/imgs/About/certification-logos/Salesforce-Certified-Associate-badge.png" width="120" height="120"><br> |
-| :----: | :----: | :----: |
-
-<br>
-
 ## 💡 WHAT I KNOW ?
 <br>
 
@@ -26,14 +20,12 @@ My objective is to secure a role in an organization where I can grow as an autom
 
 <br>
 
-## <div align="center"> :gear: SKILLSET </div>
+## :gear: SKILLSET
 <br>
-<div align="center">
   
 |<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/jira-original.svg" width="50" height="50">|<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/scrum-agile-software-development.png" width="50" height="50">|<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/postman-original.svg" width="50" height="50">|<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/selenium-original.svg" width="50" height="50">|<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/java-original.svg" width="50" height="50">|<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/testng-logo.png" width="50" height="50">|<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/eclipse-original.svg" width="50" height="50">|<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/git-original.svg" width="50" height="50">|<img src="https://github.com/amul-sinfal/amul-sinfal.github.io/blob/main/assets/imgs/skills/github-original.svg" width="50" height="50">|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
-</div><br>
 
 ## <div align="center"> :star: PROJECTS </div>
 <br>
