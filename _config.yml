@@ -6,8 +6,8 @@
 
 title: Your awesome title
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: John Doe
+  email: johndoe@googlegmail.com
 
 description: >
   Write an awesome description for your new site here. You can edit this line
@@ -33,7 +33,7 @@ minima:
   #     * solarized-light    Light variant of solarized color scheme.
   #     * solarized-dark     Dark variant of solarized color scheme.
   #     * solarized          Adaptive skin for solarized color scheme skins.
-  skin: classic
+  skin: auto
 
   # Specific pages for site navigation.
   #   If you wish to link only specific pages in the site-navigation, use this and list
@@ -43,7 +43,7 @@ minima:
   #   - about.md
 
   # Set to `true` to show excerpts on the homepage.
-  show_excerpts: false
+  show_excerpts: true
 
   # Minima date format.
   #   The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
