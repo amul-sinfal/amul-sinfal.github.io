@@ -69,11 +69,11 @@ My objective is to secure a role in an organization where I can grow as an autom
 
 |**CERTIFICATE 01 - Agile Tester Foundation Extension Certificate**, <br> *Issued by Indian Testing Board*|
 |:----:|
-|<img src="https://amulsinfal.github.io/assets/imgs/Certifications/ITB-Agile-Tester-Foundation-Extension-Certificate-In-Software-Testing.png" width="550"><br><br>|
+|<img src="https://amul-sinfal.github.io/assets/imgs/Certifications/ITB-Agile-Tester-Foundation-Extension-Certificate-In-Software-Testing.png" width="550"><br><br>|
 |**CERTIFICATE 02 - Foundation Level Certificate in Software Testing**, <br> ***Issued by Indian Testing Board***|
-|<img src="https://amulsinfal.github.io/assets/imgs/Certifications/ITB-Foundation-Level-Certificate-In-Software-Testing.png" width="550"><br><br>|
+|<img src="https://amul-sinfal.github.io/assets/imgs/Certifications/ITB-Foundation-Level-Certificate-In-Software-Testing.png" width="550"><br><br>|
 |**CERTIFICATE 03 - Salesforce Certified Associate**, <br> ***Issued by Salesforce Inc***|
-|<img src="https://amulsinfal.github.io/assets/imgs/Certifications/Salesforce-Certified-Associate.png" width="550"><br><br>|
+|<img src="https://amul-sinfal.github.io/assets/imgs/Certifications/Salesforce-Certified-Associate.png" width="550"><br><br>|
 
 <br>
 
@@ -81,6 +81,6 @@ My objective is to secure a role in an organization where I can grow as an autom
 
 |**TRAINING 01 - Diploma in Software testing**, *Issued by Seed Infotech*|
 |:----:|
-|<img src="https://amulsinfal.github.io/assets/imgs/Trainings/Seed-infotech-Manual-Testing-Certificate.png" width="550"><br><br>|
+|<img src="https://amul-sinfal.github.io/assets/imgs/Trainings/Seed-infotech-Manual-Testing-Certificate.png" width="550"><br><br>|
 
 <br>
