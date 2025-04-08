@@ -19,7 +19,7 @@ My objective is to secure a role in an organization where I can grow as an autom
 
 | <br><img src="https://amulsinfal.github.io/assets/imgs/service/manual-testing.png" width="100"><br> | <br><img src="https://amulsinfal.github.io/assets/imgs/service/automation-testing.png" width="100"><br> | <br><img src="https://amulsinfal.github.io/assets/imgs/service/api-testing.png" width="100"><br> | <br><img src="https://amulsinfal.github.io/assets/imgs/service/test-documentation.png" width="100"><br> |
 |     :---:              |     :---:              |     :---:              |     :---:              |
-| **Manual Testing** |  **Automation Testing** | **API Testing** | **Test Documentation** |
+| **Manual<br>Testing** |  **Automation<br>Testing** | **API<br>Testing** | **Test<br>Documentation** |
 
 <br>
 
